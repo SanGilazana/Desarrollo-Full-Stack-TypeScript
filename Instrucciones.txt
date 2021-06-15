@@ -1,0 +1,3 @@
+Solo has de entrar en el termial y ejecutar:
+
+node build/main.js
